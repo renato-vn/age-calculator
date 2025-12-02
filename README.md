@@ -13,7 +13,7 @@ A modern, mobile-first age calculator built with React, TypeScript, and Tailwind
 
 ## Demo
 
-![Demo screenshot](assets/demo/age-calculator-demo.mov)
+![Demo screenshot](src/assets/demo/age-calculator-demo.mov)
 
 ## Technologies
 
@@ -25,7 +25,7 @@ A modern, mobile-first age calculator built with React, TypeScript, and Tailwind
 
 ### Clone the repo and install dependencies:
 
-`git clone https://github.com/your-user/age-calculator-app.git`
+`git clone https://github.com/renato-vn/age-calculator.git`
 
 `cd age-calculator-app`
 
