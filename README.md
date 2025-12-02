@@ -13,7 +13,7 @@ A modern, mobile-first age calculator built with React, TypeScript, and Tailwind
 
 ## Demo
 
-![Demo screenshot](src/assets/demo/age-calculator-demo.mov)
+![Demo screenshot](src/assets/demo/age-calculator-demo.gif)
 
 ## Technologies
 
